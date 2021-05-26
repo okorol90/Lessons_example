@@ -16,7 +16,7 @@ public class D_Int {
 //        int result1 = 5 / 2;
 //        System.out.println(result1);
 //
-//        double correctRes = (double )5 / 2;
+//        double correctRes =  5 / (double) 2;
 //        System.out.println(correctRes);
 
 //        int var = 'a';
@@ -47,25 +47,26 @@ public class D_Int {
           |
         */
 
-        int a = 5;
-        int b = 35;
-        boolean check = a!=b;
-        boolean c = true;
-
-        if(a==5&&a<b){
-            System.out.println("That's true");
-        }else if(a!=5){
-            System.out.println("That's true a = 5");
-        }
-        else if(b==35){
-            System.out.println("That's true b = 35");
-        }
-        else{
-            System.out.println("That's false");
-        }
-
-//        System.out.println(check);
-
-
+//        int a = 5;
+//        int b = 35;
+//        boolean check = a!=b;
+//        boolean c = true;
+//
+//        if(a==5&&a<b){
+//            System.out.println("That's true");
+//        }else if(a!=5){
+//            System.out.println("That's true a = 5");
+//        }
+//        else if(b==35){
+//            System.out.println("That's true b = 35");
+//        }
+//        else{
+//            System.out.println("That's false");
+//        }
+//
+//
+//        String a = "Hello!";
+//        String b = "Hello!";
+//        System.out.println(a.equals(b));
     }
 }
